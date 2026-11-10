@@ -1,6 +1,6 @@
-# GamerHub Rewards – Landing Page
+# GameHub Rewards – Landing Page
 
-A one-page landing site for **GamerHub Rewards**, a concept for a multiplayer gaming platform where players compete for money. University project turned startup idea.
+A one-page landing site for **GameHub Rewards**, a concept for a multiplayer gaming platform where players compete for money. University project turned startup idea.
 
 Visitors read the pitch and leave their email to be notified at launch.
 
